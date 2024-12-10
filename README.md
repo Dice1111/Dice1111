@@ -1,9 +1,5 @@
 ###
 
-<img align="right" height="150" src="extra/cat-pixel.gif"  />
-
-###
-
 <h1 align="left">Hey 👋 What's up?</h1>
 
 ###
@@ -49,6 +45,10 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
 </div>
+
+###
+
+<img align="right" height="150" src="extra/cat-pixel.gif"  />
 
 ###
 
