@@ -1,3 +1,9 @@
+###
+
+<img align="right" height="150" src="extra/cat-pixel.gif"  />
+
+###
+
 <h1 align="left">Hey 👋 What's up?</h1>
 
 ###
@@ -11,10 +17,6 @@
 ###
 
 <p align="left">✨ Creating bugs since 2022.<br>📚 I'm currently learning Electron.<br>🎯 Goals: Create a game.<br></p>
-
-###
-
-<img align="right" height="150" src="extra/cat-pixel.gif"  />
 
 ###
 
