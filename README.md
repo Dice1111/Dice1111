@@ -47,10 +47,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="vuejs logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
-  <br/>
+  
 </div>
 
-
+<br/>
 ###
 
 <img align="right" height="150" src="extra/cat-pixel.gif"  />
