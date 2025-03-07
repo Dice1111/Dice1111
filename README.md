@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2022.<br>📚 I'm currently learning Electron.<br>🎯 Goals: Create a game.<br>📩 Reach me from here: <a href="mailto:nayaunglwin005@gmail.com">nayaunglwin005@gmail.com</a></p>
+<p align="left">✨ Creating bugs since 2022.<br>📚 I'm currently learning Three.js.<br>🎯 Goals: Create a game.<br>📩 Reach me from here: <a href="mailto:nayaunglwin005@gmail.com">nayaunglwin005@gmail.com</a></p>
 
 ###
 
